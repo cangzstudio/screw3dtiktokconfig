@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "show_open_ads": false,
+  "endMissionDay": 0,
+  "show_open_ads_resume": true,
+  "difficulty_percentage_lvl": 0.2,
+  "startMissionDay": 1,
+  "rating_location": 2,
+  "hourPopupOffline": 24,
+  "expGoldPerlvl":10,
+  "unlockPiggyBankLvl": 9,
+  "unlockTopRankingLvl": 17,
+  "level_show_inter": 6,
+  "boostersDailyGoldPrice": 270,
+  "saveGoldPiggyBank": 90,
+  "newLvlDiff": 20,
+  "endMissionMinutes": 1439,
+  "piggyValueMax": 3000,
+  "dueHoursPiggy": 72,
+  "piggyValueTarget": 900,
+  "ads_interval": 45,
+  "boostersGoldPrice": 300,
+  "newLvlDiffValue": 0.5,
+  "unlockDailyRewardLvl": 13,
+  "startMissionMinutes": 0,
+  "rating_popup": true,
+  "show_banner": true,
+  "diff_lvl_arrary": {
+    "datas": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 ] 
+
+  },
+  "unlockMissionLvl": 10,
+  "hien_qc": true,
+  "show_open_ads_first_open": false,
+  "resume_ads": true
+}
