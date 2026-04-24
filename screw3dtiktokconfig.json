@@ -32,5 +32,6 @@
   "unlockMissionLvl": 10,
   "hien_qc": true,
   "show_open_ads_first_open": false,
-  "resume_ads": true
+  "resume_ads": true,
+  "isSuggestIap":false
 }
