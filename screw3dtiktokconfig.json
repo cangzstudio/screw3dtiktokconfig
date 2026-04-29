@@ -35,5 +35,6 @@
   "resume_ads": true,
   "isSuggestIap":false,
   "showAddHome":3,
-  "testIsNewUser":true
+  "testIsNewUser":true,
+  "isValidatedPB":false
 }
